@@ -1,4 +1,4 @@
-//The Fraction Reduction Program is a C++ application that allows users to input a numerator and denominator and then simplifies the fraction to its simplest form by dividing both the numerator and denominator by their greatest common divisor (GCD).
+//C++ application that allows users to input a numerator and denominator and then simplifies the fraction to its simplest form by dividing both the numerator and denominator by their greatest common divisor (GCD).
 
 #include <iostream>
 using namespace std;
